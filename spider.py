@@ -125,12 +125,12 @@ def bn_getattrs(game, info, exclusives):
                 )
 
             if game == 'bn6':
-                # Only standard chips are available for now.
                 codes = chip[1].strip().replace(' ', ',')
                 rarity = str(len(chip[2]))
                 size = chip[3]
-                
-                chips[chip[0]] = (codes, rarity, size)
+                # Only standard chips are available for now.             
+                if len(chips) < 200:
+                    chips[chip[0]] = (codes, rarity, size)
 
         return chips
 
@@ -514,7 +514,7 @@ class MegaSpider(scrapy.Spider):
         elif '6' in request_url:
             curr_game = 'bn6'
         else:
-            curr_game = 'bn1'    
+            curr_game = 'bn1'
         
         xpaths = self.xpaths[curr_game]
         # Since not all information is present on these FAQs, we'll dig up
