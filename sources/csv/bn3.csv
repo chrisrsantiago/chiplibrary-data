@@ -1,0 +1,345 @@
+Library ID,Game ID,Name (English),Name (Japanese),Codes,Damage,Element,Rarity,MB,Category,Version
+1,1,Cannon,キャノン,ABCDE*,40,none,1,12,Standard,Both
+2,2,HiCannon,,HIJKL*,60,none,2,24,Standard,Both
+3,3,M-Cannon,,OPQRS,80,none,3,36,Standard,Both
+4,4,AirShot1,,*,20,none,1,4,Standard,Both
+5,5,AirShot2,,*,30,none,2,12,Standard,Both
+6,6,AirShot3,,*,40,none,2,18,Standard,Both
+7,7,LavaCan1,,AGSTV,90,fire,1,34,Standard,Both
+8,8,LavaCan2,,BDFMO,120,fire,2,42,Standard,Both
+9,9,LavaCan3,,EHJRW,150,fire,3,60,Standard,Both
+10,114,Volcano,,AGJYZ,150,fire,4,75,Standard,Both
+11,10,ShotGun,ショットガン,BFJNT*,30,none,1,8,Standard,Both
+12,11,V-Gun,ブイガン,DGLPV*,30,none,1,8,Standard,Both
+13,12,SideGun,,CHMSY*,30,none,1,8,Standard,Both
+14,13,Spreader,,MNOPQ*,30,none,2,16,Standard,Both
+15,14,Bubbler,,ACDEP*,60,aqua,1,14,Standard,Both
+16,15,Bub-V,,DEFSV*,60,aqua,2,22,Standard,Both
+17,16,BublSide,,BEFGR*,60,aqua,3,30,Standard,Both
+18,17,HeatShot,,BHIJP*,40,fire,1,16,Standard,Both
+19,18,Heat-V,,FIJKV*,40,fire,2,24,Standard,Both
+20,19,HeatSide,,CJKLT*,40,fire,3,32,Standard,Both
+21,20,MiniBomb,ミニボム,BGLOS*,50,none,1,6,Standard,Both
+22,21,SnglBomb,,DFHJT*,50,none,1,12,Standard,Both
+23,22,DublBomb,,ACHKQ*,50,none,2,24,Standard,Both
+24,23,TrplBomb,,EINPW,50,none,3,36,Standard,Both
+25,24,CannBall,,ADFLP*,160,none,3,33,Standard,Both
+26,25,IceBall,,FIMQS*,120,aqua,3,18,Standard,Both
+27,26,LavaBall,,BCHNW*,140,fire,3,20,Standard,Both
+28,27,BlkBomb1,,FLNPZ,120,fire,2,60,Standard,Both
+29,28,BlkBomb2,,DIKQS,170,fire,3,70,Standard,Both
+30,29,BlkBomb3,,CGLUY,220,fire,4,80,Standard,Both
+31,30,Sword,ソード,EHLSY,80,none,1,10,Standard,Both
+32,31,WideSwrd,ワイドソード,CELQY,80,none,2,16,Standard,Both
+33,32,LongSwrd,,EILRY,80,none,3,24,Standard,Both
+34,33,FireSwrd,,FNPRU,130,fire,3,20,Standard,Both
+35,34,AquaSwrd,,AHNPT,150,aqua,3,25,Standard,Both
+36,35,ElecSwrd,,EKNPV,130,elec,3,23,Standard,Both
+37,36,BambSwrd,,BLNPW,140,wood,3,18,Standard,Both
+38,37,CustSwrd,,BFRVZ,????,none,3,21,Standard,Both
+39,38,VarSwrd,,BCDEF,160,none,4,68,Standard,Both
+40,42,AirSwrd,,CEHJR*,100,none,3,30,Standard,Both
+41,39,StepSwrd,,LMNOP,130,none,4,43,Standard,Both
+42,40,StepCros,,PQRST,130,none,4,74,Standard,Both
+43,43,Slasher,,BDGRS,240,none,3,12,Standard,Both
+44,44,ShockWav,,DHJLR,60,none,1,10,Standard,Both
+45,45,SonicWav,,GIMSW,80,none,2,26,Standard,Both
+46,46,DynaWave,,ENQTV,100,none,3,42,Standard,Both
+47,113,BigWave,,EJMPY,190,none,4,82,Standard,Both
+48,47,GutPunch,,BCDEF,80,none,1,14,Standard,Both
+49,48,GutStrgt,,OPQRS,100,none,2,30,Standard,Both
+50,49,GutImpct,,GHIJK,160,none,3,50,Standard,Both
+51,53,DashAtk,,CDGJZ*,90,none,1,11,Standard,Both
+52,54,Burner,,BFQSW,130,fire,3,15,Standard,Both
+53,115,Condor,,BILSZ,180,none,4,44,Standard,Both
+54,116,Burning,,AFLRS,150,fire,4,42,Standard,Both
+55,66,ZapRing1,ラビリング1,AMPQS*,20,elec,1,8,Standard,Both
+56,67,ZapRing2,,BGNRW,40,elec,2,18,Standard,Both
+57,68,ZapRing3,,CEOTZ,60,elec,3,28,Standard,Both
+58,90,IceWave1,,AKMQW*,80,aqua,1,14,Standard,Both
+59,91,IceWave2,,DHLPR*,100,aqua,2,22,Standard,Both
+60,92,IceWave3,,CDJRV,140,aqua,3,30,Standard,Both
+61,69,Yo-Yo1,,CDEFG*,40,none,1,72,Standard,Both
+62,70,Yo-Yo2,,HIJKL,50,none,2,80,Standard,Both
+63,71,Yo-Yo3,,MNOPQ,60,none,3,88,Standard,Both
+64,50,AirStrm1,,AFHOS,50,none,1,26,Standard,Both
+65,51,AirStrm2,,CGHMW,60,none,2,35,Standard,Both
+66,52,AirStrm3,,AGINV,70,none,3,44,Standard,Both
+67,96,Arrow1,,BEMQT,100,elec,1,40,Standard,Both
+68,97,Arrow2,,FRSUZ,130,elec,2,60,Standard,Both
+69,98,Arrow3,,AHJNP,160,elec,3,80,Standard,Both
+70,58,Ratton1,,ACFHJ,80,none,1,14,Standard,Both
+71,59,Ratton2,,ACFNO,100,none,2,24,Standard,Both
+72,60,Ratton3,,ACFRS,120,none,3,34,Standard,Both
+73,117,FireRatn,,BFHMY,230,none,3,35,Standard,Both
+74,61,Wave,,EILST,80,aqua,3,60,Standard,Both
+75,62,RedWave,,BFJRU,90,fire,3,72,Standard,Both
+76,63,MudWave,,DGMVZ,100,wood,3,84,Standard,Both
+77,65,Tornado,,CLRTU,20,none,2,18,Standard,Both
+78,72,Spice1,,BDISZ*,80,wood,1,22,Standard,Both
+79,73,Spice2,,CFIKR,110,wood,2,34,Standard,Both
+80,74,Spice3,,DFJOQ,140,wood,3,46,Standard,Both
+81,110,Shake1,,EGRSU,90,none,1,34,Standard,Both
+82,111,Shake2,,BFILQ,110,none,2,40,Standard,Both
+83,112,Shake3,,DMRTZ,140,none,3,50,Standard,Both
+84,148,NoBeam1,,CFGKW,200,none,2,66,Standard,Both
+85,149,NoBeam2,,EISUY,260,none,3,77,Standard,Both
+86,150,NoBeam3,,HMVWZ,300,none,4,88,Standard,Both
+87,64,Hammer,,BGLPT*,100,none,2,16,Standard,Both
+88,107,Geyser,,BCLSW,200,aqua,4,22,Standard,Both
+89,78,Rope1,,DGJMO*,50,wood,1,45,Standard,Both
+90,79,Rope2,,EGOTU,70,wood,2,55,Standard,Both
+91,80,Rope3,,HITUV,90,wood,3,65,Standard,Both
+92,84,Boomer1,,FHJMT*,60,wood,1,15,Standard,Both
+93,85,Boomer2,,EIKNV*,80,wood,2,22,Standard,Both
+94,86,Boomer3,,LOPUZ,100,wood,3,30,Standard,Both
+95,108,PoisMask,,AFNQV*,0,none,1,30,Standard,Both
+96,109,PoisFace,,ANQVW*,0,none,2,38,Standard,Both
+97,145,RockArm1,,DHJOP*,100,none,1,23,Standard,Both
+98,146,RockArm2,,GMPSV*,150,none,2,35,Standard,Both
+99,147,RockArm3,,CILTZ,200,none,3,47,Standard,Both
+100,104,CrsShld1,,ACHLP*,160,none,1,25,Standard,Both
+101,105,CrsShld2,,BCLST,210,none,2,33,Standard,Both
+102,106,CrsShld3,,CELNR,260,none,3,41,Standard,Both
+103,81,Magnum1,,ACHTV,120,fire,1,35,Standard,Both
+104,82,Magnum2,,BGNOZ,150,fire,2,55,Standard,Both
+105,83,Magnum3,,DFISW,180,fire,3,75,Standard,Both
+106,93,Plasma1,,BDJRT,30,elec,1,14,Standard,Both
+107,94,Plasma2,,AGKMQ,60,elec,2,26,Standard,Both
+108,95,Plasma3,,FINPS,90,elec,3,34,Standard,Both
+109,87,RndmMetr,,EISVZ,100,fire,3,28,Standard,Both
+110,88,HoleMetr,,CHJNQ,100,fire,3,48,Standard,Both
+111,89,ShotMetr,,ADFSY,100,fire,3,38,Standard,Both
+112,154,Needler1,,IJMRS,30,none,1,32,Standard,Both
+113,155,Needler2,,FHMTV,40,none,2,52,Standard,Both
+114,156,Needler3,,DLOUZ,50,none,3,72,Standard,Both
+115,55,Totem1,,GHMOV,100,fire,1,29,Standard,Both
+116,56,Totem2,,ACETZ,140,fire,2,38,Standard,Both
+117,57,Totem3,,DIKNQ,180,fire,3,47,Standard,Both
+118,101,Sensor1,,CKLOP,100,elec,3,62,Standard,Both
+119,102,Sensor2,,AGHNS,130,elec,3,70,Standard,Both
+120,103,Sensor3,,BEJOP,130,elec,3,72,Standard,Both
+121,133,MetaGel1,,BCDKY*,130,aqua,1,18,Standard,Both
+122,134,MetaGel2,,EFGPS,130,aqua,2,28,Standard,Both
+123,135,MetaGel3,,GHSTU,170,aqua,3,38,Standard,Both
+124,151,Pawn,,BENRY,90,none,3,44,Standard,Both
+125,152,Knight,,CHMUV,150,none,3,64,Standard,Both
+126,153,Rook,,DFNQU*,0,none,3,30,Standard,Both
+127,132,Team1,,ACETZ*,10,none,2,16,Standard,Both
+128,169,Team2,,DLPSZ*,0,none,2,20,Standard,Both
+129,99,TimeBomb,,JKLMN,150,none,3,32,Standard,Both
+130,100,Mine,,ADLRS*,300,none,3,16,Standard,Both
+131,75,Lance,,DEHRZ,130,wood,3,46,Standard,Both
+132,131,Snake,,DEIRY,40,wood,3,20,Standard,Both
+133,118,Guard,,*,40,none,1,5,Standard,Both
+134,119,PanlOut1,パネルアウト1,ABDLS*,10,none,1,4,Standard,Both
+135,120,PanlOut3,,CENRY*,10,none,1,7,Standard,Both
+136,129,PanlGrab,パネルスチール,AHLSY*,10,none,1,10,Standard,Both
+137,130,AreaGrab,アリアスチール,ELRSY*,10,none,2,15,Standard,Both
+138,136,GrabBack,,AEIKN,40,none,3,10,Standard,Both
+139,137,GrabRvng,,CGPRY,80,none,4,30,Standard,Both
+140,141,RockCube,,ACEHR*,0,none,1,9,Standard,Both
+141,142,Prism,,HJKQW,0,none,3,60,Standard,Both
+142,143,Wind,,AEHOS*,0,none,1,14,Standard,Both
+143,144,Fan,,AGLRT*,0,none,1,14,Standard,Both
+144,170,Fanfare,,CEGLY*,0,none,3,32,Standard,Both
+145,171,Discord,,DFNTZ*,0,none,3,38,Standard,Both
+146,172,Timpani,,ANQUM*,0,none,3,42,Standard,Both
+147,121,Recov10,リカバリー10,ACEGL*,0,none,1,5,Standard,Both
+148,122,Recov30,リカバリー30,BDFHM*,0,none,1,8,Standard,Both
+149,123,Recov50,リカバリー50,CEGIN*,0,none,2,14,Standard,Both
+150,124,Recov80,リカバリー80,DFHJO*,0,none,2,20,Standard,Both
+151,125,Recov120,リカバリー120,OQSUW*,0,none,3,35,Standard,Both
+152,126,Recov150,リカバリー150,NPRTV*,0,none,3,50,Standard,Both
+153,127,Recov200,リカバリー200,MNUVW,0,none,4,65,Standard,Both
+154,128,Recov300,リカバリー300,ORVWZ,0,none,4,80,Standard,Both
+155,159,Repair,,ACDFS*,0,none,1,8,Standard,Both
+156,157,SloGauge,,ACRSZ*,0,none,3,20,Standard,Both
+157,158,FstGauge,,BEJRY*,0,none,3,40,Standard,Both
+158,41,Panic,,ACLRZ*,0,none,3,14,Standard,Both
+159,138,Geddon1,,DJMOS*,0,none,3,10,Standard,Both
+160,139,Geddon2,,FHNOW,0,none,4,50,Standard,Both
+161,140,Geddon3,,CMUWY,? per second,none,4,90,Standard,Both
+162,194,CopyDmg,,AFHLY*,0,none,3,18,Standard,Both
+163,160,Invis,,BEFES*,0,none,3,11,Standard,Both
+164,165,Shadow,,HJNQU*,0,none,3,60,Standard,Both
+165,162,Mole1,,ADHJO*,0,none,1,28,Standard,Both
+166,163,Mole2,,BGIKR*,0,none,2,35,Standard,Both
+167,164,Mole3,,CELMQ,0,none,3,42,Standard,Both
+168,168,AirShoes,,HINUY*,0,none,3,26,Standard,Both
+169,173,Barrier,,CELRS*,0,none,1,7,Standard,Both
+170,174,Barr100,,EJMRT*,0,none,2,25,Standard,Both
+171,175,Barr200,,EFHRU,0,none,3,50,Standard,Both
+172,176,Aura,,FISUY,0,none,3,55,Standard,Both
+173,177,NrthWind,,ACNSZ,0,none,4,43,Standard,Both
+174,166,Mettaur,,ELMOT,0,none,5,30,Standard,Both
+175,167,Bunny,,ABILR,0,elec,5,32,Standard,Both
+176,186,Spikey,,AEGRU,0,fire,5,34,Standard,Both
+177,185,Swordy,,DIOSW,0,none,5,30,Standard,Both
+178,188,Jelly,,EJLRY,0,none,5,46,Standard,Both
+179,187,Mushy,,CHMSY,0,wood,5,38,Standard,Both
+180,77,Momogra,,GMORU,0,none,5,38,Standard,Both
+181,189,KillrEye,,EIKLR,0,none,5,50,Standard,Both
+182,76,Scuttlst,,ADEMR,0,none,5,52,Standard,Both
+183,161,Hole,,ABSTZ*,0,none,4,55,Standard,Both
+184,178,HolyPanl,,EJLRU*,0,none,2,14,Standard,Both
+185,179,LavaStge,,AERTY*,0,none,3,22,Standard,Both
+186,180,IceStage,,CGMQT*,0,none,3,20,Standard,Both
+187,181,GrassStg,,EJRWZ*,0,none,3,10,Standard,Both
+188,182,SandStge,,BCQUW*,0,none,3,18,Standard,Both
+189,183,MetlStge,,DGMOS*,0,none,3,26,Standard,Both
+190,184,Snctuary,,ACELS,0,none,4,54,Standard,Both
+191,191,AntiDmg,,CFHMS,100,none,3,45,Standard,Both
+192,192,AntiSwrd,,BKRUY,100,none,3,68,Standard,Both
+193,190,AntiNavi,,AMNVW,0,none,4,60,Standard,Both
+194,193,AntiRecv,,BDEOS,0,none,3,73,Standard,Both
+195,195,Atk+10,アタック＋10,*,0,none,1,4,Standard,Both
+196,196,Fire+30,,*,0,none,2,20,Standard,Both
+197,197,Aqua+30,,*,0,none,2,21,Standard,Both
+198,198,Elec+30,,*,0,none,2,23,Standard,Both
+199,199,Wood+30,,*,0,none,2,26,Standard,Both
+200,200,Navi+20,,*,0,none,2,34,Standard,Both
+1,202,Muramasa,,M,????,none,5,74,Mega,Both
+2,207,HeroSwrd,,P,180,none,4,65,Mega,Both
+3,208,ZeusHamr,,Z,250,none,5,90,Mega,Both
+4,215,StandOut,,P*,220,fire,4,22,Mega,Both
+5,273,Salamndr,,S*,300,fire,4,50,Mega,Both
+6,216,WatrLine,,C*,180,aqua,3,18,Mega,Both
+7,274,Fountain,,D*,240,aqua,3,48,Mega,Both
+8,217,Ligtning,,L*,160,elec,3,30,Mega,Both
+9,275,Bolt,,T*,210,elec,3,52,Mega,Both
+10,218,GaiaSwrd,,G*,100,wood,3,28,Mega,Both
+11,276,GaiaBlad,,G*,100,wood,4,55,Mega,Both
+12,212,Meteors,,R,40,fire,4,86,Mega,Both
+13,203,Guardian,,O,0,none,5,82,Mega,Both
+14,204,Anubis,,A,0,none,5,90,Mega,Both
+15,209,GodStone,,S,150,wood,4,66,Mega,Both
+16,210,OldWood,,W,100,wood,4,72,Mega,Both
+17,214,Jealousy,,J,100,none,3,64,Mega,Both
+18,213,Poltrgst,,G,0,none,5,58,Mega,Both
+19,201,LifeAura,,D,0,none,4,77,Mega,Both
+20,211,FullCust,,*,0,none,3,10,Mega,Both
+21,205,Atk+30,,*,0,none,3,50,Mega,Both
+22,206,Navi+40,,*,0,none,3,60,Mega,Both
+23,219,Roll V1,,R,20,none,3,10,Mega,Both
+24,220,Roll V2,,R,30,none,4,22,Mega,Both
+25,221,Roll V3,,R,40,none,5,34,Mega,Both
+26,222,GutsMan V1,,G,50,none,3,15,Mega,Both
+27,223,GutsMan V2,,G,70,none,4,41,Mega,Both
+28,224,GutsMan V3,,G,90,none,5,57,Mega,Both
+29,225,GutsMan V4,,G,100,none,5,63,Mega,Both
+30,227,ProtoMan V1,,B,160,none,3,68,Mega,Both
+31,228,ProtoMan V2,,B,180,none,4,76,Mega,Both
+32,229,ProtoMan V3,,B,200,none,5,82,Mega,Both
+33,230,ProtoMan V4,,B,220,none,5,90,Mega,Both
+34,232,FlashMan V1,,F,50,elec,3,39,Mega,Both
+35,233,FlashMan V2,,F,70,elec,4,59,Mega,Both
+36,234,FlashMan V3,,F,90,elec,5,69,Mega,Both
+37,235,FlashMan V4,,F,120,elec,5,79,Mega,Both
+38,237,BeastMan V1,,B,40,none,3,38,Mega,Both
+39,238,BeastMan V2,,B,50,none,4,60,Mega,Both
+40,239,BeastMan V3,,B,60,none,5,68,Mega,Both
+41,240,BeastMan V4,,B,70,none,5,76,Mega,Both
+42,242,BubblMan V1,,B,20,aqua,3,50,Mega,Both
+43,243,BubblMan V2,,B,20,aqua,4,62,Mega,Both
+44,244,BubblMan V3,,B,20,aqua,5,74,Mega,Both
+45,245,BubblMan V4,,B,20,aqua,5,80,Mega,Both
+46,247,DesrtMan V1,,D,120,none,3,38,Mega,Both
+47,248,DesrtMan V2,,D,140,none,4,52,Mega,Both
+48,249,DesrtMan V3,,D,160,none,5,64,Mega,Both
+49,250,DesrtMan V4,,D,180,none,5,72,Mega,Both
+50,252,PlantMan V1,,P,20,wood,3,60,Mega,Both
+51,253,PlantMan V2,,P,30,wood,4,65,Mega,Both
+52,254,PlantMan V3,,P,40,wood,5,70,Mega,Both
+53,255,PlantMan V4,,P,50,wood,5,75,Mega,Both
+54,257,FlamMan V1,,F,120,fire,3,32,Mega,Both
+55,258,FlamMan V2,,F,150,fire,4,52,Mega,Both
+56,259,FlamMan V3,,F,180,fire,5,62,Mega,Both
+57,260,FlamMan V4,,F,210,fire,5,72,Mega,Both
+58,262,DrillMan V1,,D,70,none,3,66,Mega,Both
+59,263,DrillMan V2,,D,90,none,4,70,Mega,Both
+60,264,DrillMan V3,,D,110,none,5,74,Mega,Both
+61,265,DrillMan V4,,D,130,none,5,78,Mega,Both
+62,267,MetalMan V1,,M,100,none,3,40,Mega,Both
+63,268,MetalMan V2,,M,130,none,4,60,Mega,Both
+64,269,MetalMan V3,,M,160,none,5,70,Mega,Both
+65,270,MetalMan V4,,M,190,none,5,80,Mega,Both
+66,277,KingMan V1,,K,140,none,3,36,Mega,Both
+67,278,KingMan V2,,K,170,none,4,48,Mega,Both
+68,279,KingMan V3,,K,200,none,5,60,Mega,Both
+69,280,KingMan V4,,K,240,none,5,72,Mega,Both
+70,282,MistMan V1,,M,90,none,3,68,Mega,Both
+71,283,MistMan V2,,M,110,none,4,71,Mega,Both
+72,284,MistMan V3,,M,130,none,5,74,Mega,Both
+73,285,MistMan V4,,M,150,none,5,77,Mega,Both
+74,287,BowlMan V1,,B,100,none,3,80,Mega,Both
+75,288,BowlMan V2,,B,120,none,4,82,Mega,Both
+76,289,BowlMan V3,,B,140,none,5,84,Mega,Both
+77,290,BowlMan V4,,B,160,none,5,86,Mega,Both
+78,292,DarkMan V1,,D,30,none,3,72,Mega,Both
+79,293,DarkMan V2,,D,30,none,4,76,Mega,Both
+80,294,DarkMan V3,,D,30,none,5,80,Mega,Both
+81,295,DarkMan V4,,D,30,none,5,84,Mega,Both
+82,297,JapanMan V1,,Y,40,none,3,82,Mega,Both
+83,298,JapanMan V2,,Y,45,none,4,85,Mega,Both
+84,299,JapanMan V3,,Y,50,none,5,88,Mega,Both
+85,300,JapanMan V4,,Y,55,none,5,91,Mega,Both
+86,272,Punk,,P,180,none,5,92,Mega,Both
+2,312,BassGS,,X,700,none,5,99,Giga,Both
+1,303,FoldrBak,,*,0,none,5,99,Giga,Blue
+2,311,Bass+,,X,550,none,5,98,Giga,Blue
+3,309,DarkAura,,A,0,none,5,55,Giga,Blue
+4,302,DeltaRay,,Z,220 * 3+?,none,5,92,Giga,Blue
+5,310,AlphArmOmega,,V,500,none,5,97,Giga,Blue
+1,304,NavRcycl,,*,0,none,5,50,Giga,White
+2,306,Bass,,X,90 * ?,none,5,98,Giga,White
+3,307,Serenade,,S,100 * ?,none,5,97,Giga,White
+4,308,Balance,,Y,0,none,5,60,Giga,White
+5,305,AlphArmSigma,,V,50 * 16,none,5,97,Giga,White
+6,226,GutsMan V5,,G,120,none,5,79,Giga,Both
+7,231,Protoman V5,,B,240,none,5,98,Giga,Both
+8,236,FlashMan V5,,F,150,elec,5,89,Giga,Both
+9,241,BeastMan V5,,B,80,none,5,84,Giga,Both
+10,246,BubblMan V5,,B,20,aqua,5,86,Giga,Both
+11,251,DesrtMan V5,,D,210,none,5,80,Giga,Both
+12,256,PlantMan V5,,P,60,wood,5,80,Giga,Both
+13,261,FlamMan V5,,F,240,fire,5,82,Giga,Both
+14,266,DrillMan V5,,D,150,none,5,82,Giga,Both
+15,271,MetalMan V5,,M,250,none,5,90,Giga,Both
+16,281,KingMan V5,,K,280,none,5,84,Giga,Both
+17,286,MistMan V5,,M,170,none,5,80,Giga,Both
+18,291,BowlMan V5,,B,180,none,5,88,Giga,Both
+19,296,DarkMan V5,,D,30,none,5,88,Giga,Both
+20,301,JapanMan V5,,Y,60,none,5,94,Giga,Both
+1,320,Z-Canon1,,ABC,40 * 3 * X,none,-,-,PA,Both
+2,321,Z-Canon2,,HIJ,60 * 3 * X,none,-,-,PA,Both
+3,322,Z-Canon3,,OPQ,80 * 3 * X,none,-,-,PA,Both
+4,323,Z-Punch,,BCD,80 * X,none,-,-,PA,Both
+5,324,Z-Strght,,OPQ,100 * X,none,-,-,PA,Both
+6,325,Z-Impact,,GHI,160 * X,none,-,-,PA,Both
+7,326,Z-Varibl,,BCD,160 * X,none,-,-,PA,Both
+8,327,Z-Yoyo1,,CDE,40 * 3 * X,none,-,-,PA,Both
+9,328,Z-Yoyo2,,HIJ,50 * 3 * X,none,-,-,PA,Both
+10,329,Z-Yoyo3,,MNO,60 * 3 * X,none,-,-,PA,Both
+11,330,Z-Step1,,LMN,130 * X,none,-,-,PA,Both
+12,331,Z-Step2,,PQR,130 * X,none,-,-,PA,Both
+13,334,BubSprd,,CDE,300,aqua,-,-,PA,Both
+14,335,HeatSprd,,HIJ,300,heat,-,-,PA,Both
+15,333,H-Burst,,MNO,100 * 5,none,-,-,PA,Both
+16,336,LifeSwrd,,ELY,400,none,-,-,PA,Both
+17,337,ElemSwrd,,NP,150 * 4,all,-,-,PA,Both
+18,338,EvilCut,,P,150 * 3,none,-,-,PA,Both
+19,340,HyperRat,,ACF,500,none,-,-,PA,Both
+20,332,TimeBom+,,JKL,500,none,-,-,PA,Both
+21,342,GelRain,,BES,150 * 6,aqua,-,-,PA,Both
+22,341,EverCrse,,CL,100 * 15,none,-,-,PA,Both
+23,349,MomQuake,,S*,200 * ?,none,-,-,PA,Both
+24,343,PoisPhar,,A,? per second,none,-,-,PA,Both
+25,344,BodyGrd,,M,100 * 18,none,-,-,PA,Both
+26,345,500Barr,,ER,0,none,-,-,PA,Both
+27,346,BigHeart,,R,50 * 9,none,-,-,PA,Both
+28,347,GtsShoot,,G,300,none,-,-,PA,Both
+29,348,DeuxHero,,B,70 * 8,none,-,-,PA,Both
+30,339,2xHero,,B,70 * 10,none,-,-,PA,Both
+31,350,PrixPowr,,K*,300 * 3,none,-,-,PA,Both
+32,351,MstrStyl,,*,100 * 9,none,-,-,PA,Both

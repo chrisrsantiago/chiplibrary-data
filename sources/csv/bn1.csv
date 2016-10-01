@@ -1,0 +1,218 @@
+Library ID,Game ID,Name (English),Name (Japanese),Codes,Damage,Element,Rarity,MB,Category
+1,1,Cannon,キャノン,ABCDE,40,none,1,-,Standard
+2,2,HiCannon,ハイキャノン,FGHIJ,80,none,2,-,Standard
+3,3,M-Cannon,メガキャノン,KLMNO,120,none,3,-,Standard
+4,14,Shotgun,ショットガン,KMNQR,30,none,1,-,Standard
+5,15,CrossGun,クロスガン,CEFJK,30,none,1,-,Standard
+6,10,Spreader,スプレッドガン,HIJKL,30,none,2,-,Standard
+7,11,Bubbler,バブルスプレッド,AKLPS,50,aqua,1,-,Standard
+8,12,Heater,ヒートスプレッド,CFGKO,70,fire,2,-,Standard
+9,13,MiniBomb,ミニボム,CEJLP,50,none,1,-,Standard
+10,7,LilBomb,スモールボム,BDGOT,50,none,1,-,Standard
+11,8,CrosBomb,クロスボム,BDHJL,70,none,2,-,Standard
+12,9,BigBomb,ビッグボム,BGOST,90,none,4,-,Standard
+13,4,Sword,ソード,BKLPS,80,none,1,-,Standard
+14,5,WideSwrd,ワイドソード,CKMNS,80,none,1,-,Standard
+15,6,LongSwrd,ロングソード,DENOS,80,none,2,-,Standard
+16,30,FtrSword,ファイターソード,BKLPS,100,none,3,-,Standard
+17,32,KngtSwrd,ナイトソード,BCEGH,150,none,4,-,Standard
+18,33,HeroSwrd,パラディンソード,BDFIG,200,none,5,-,Standard
+19,25,FireSwrd,フレイムソード,BFGNP,100,fire,2,-,Standard
+20,27,AquaSwrd,アクアソード,AMNOP,150,aqua,3,-,Standard
+21,26,ElecSwrd,エレキソード,EGLOS,120,elec,3,-,Standard
+22,136,Muramasa,ムラマサ,CEGJK,???,none,5,-,Standard
+23,16,ShokWave,ショックウェーブ,CKLNP,60,none,1,-,Standard
+24,17,SoniWave,ショックウェーブ,CDJMS,80,none,2,-,Standard
+25,18,DynaWave,ダイナウェーブ,CEMSR,100,none,3,-,Standard
+26,19,FireTowr,フレイムタワー,EFLMT,100,fire,2,-,Standard
+27,20,AquaTowr,アクアタワー,ACGHR,120,aqua,2,-,Standard
+28,21,WoodTowr,ウッディタワー,BCHKN,140,wood,2,-,Standard
+29,22,Quake1,アースクエイク1,AEHKQ,90,none,1,-,Standard
+30,23,Quake2,アースクエイク2,BCIKQ,120,none,2,-,Standard
+31,24,Quake3,アースクエイク3,CDHMQ,150,none,3,-,Standard
+32,28,GutsPnch,ガッツパンチ,BHMNT,60,none,1,-,Standard
+33,29,IcePunch,コールドパンチ,BHMNT,80,aqua,2,-,Standard
+34,31,Dash,ダッシュアタック,BDGLO,50,none,1,-,Standard
+35,43,Howitzer,ホウガン,ACGHO,150,none,4,-,Standard
+36,37,TriArrow,トリプルアロー,ABCDE,40 * 3,none,1,-,Standard
+37,38,TriSpear,トリプルスピア,FGHIJ,50 * 3,none,2,-,Standard
+38,39,TriLance,トリプルランス,KLMNO,60 * 3,none,4,-,Standard
+39,58,Ratton1,ラットン1,ABCDE,80,none,1,-,Standard
+40,59,Ratton2,ラットン2,FGHIJ,100,none,2,-,Standard
+41,60,Ratton3,ラットン3,KLMNO,120,none,3,-,Standard
+42,133,Wave,ツナミ,ADILM,80,aqua,3,-,Standard
+43,134,RedWave,アカツナミ,BEJNP,100,fire,3,-,Standard
+44,135,BigWave,オオツナミ,CHKLQ,160,aqua,4,-,Standard
+45,127,Gaia1,ガイアハンマー1,CDLOT,100,none,3,-,Standard
+46,128,Gaia2,ガイアハンマー2,CFKPS,130,none,4,-,Standard
+47,129,Gaia3,ガイアハンマー3,CGMNT,160,none,5,-,Standard
+48,44,Thunder1,サンダーボール1,AEGHS,90,elec,1,-,Standard
+49,45,Thunder2,サンダーボール2,BCFIL,120,elec,2,-,Standard
+50,46,Thunder3,サンダーボール3,DFGKN,150,elec,3,-,Standard
+51,112,RingZap1,エレキサークル1,GHMNP,100,elec,1,-,Standard
+52,113,RingZap2,エレキサークル2,CEGJL,100,elec,2,-,Standard
+53,114,RingZap3,エレキサークル3,ABORT,100,elec,3,-,Standard
+54,40,Typhoon,タイフーン,ABDEG,30,none,1,-,Standard
+55,41,Huricane,ハリケーン,GIJKL,30,none,2,-,Standard
+56,42,Cyclone,サイクロン,EFGHI,30,none,3,-,Standard
+57,49,Snakegg1,エッグスネーク1,BEGMN,130,wood,1,-,Standard
+58,50,Snakegg2,エッグスネーク2,CEHNP,140,elec,2,-,Standard
+59,51,Snakegg3,エッグスネーク3,ACFLS,150,fire,3,-,Standard
+60,121,Drain1,モスキート1,ABDKO,50,none,2,-,Standard
+61,122,Drain2,モスキート2,ACHNT,70,none,2,-,Standard
+62,123,Drain3,モスキート3,AEFLQ,90,none,3,-,Standard
+63,55,BodyBurn,バーニングボディ,EFKMN,100,fire,4,-,Standard
+64,64,X-Panel1,パネルアウト1,BDGLS,0,none,2,-,Standard
+65,65,X-Panel3,パネルアウト3,BDGLS,0,none,3,-,Standard
+66,52,Hammer,ブレイクハンマー,AFIMQ,100,none,2,-,Standard
+67,34,MetGuard,メットガード,ACEGL,0,none,1,-,Standard
+68,145,IronShld,メタルシールド,ABORT,0,none,2,-,Standard
+69,67,Recov10,リカバリー10,ACEGL,0,none,1,-,Standard
+70,68,Recov30,リカバリー30,ACEGL,0,none,1,-,Standard
+71,69,Recov50,リカバリー50,ACEGL,0,none,1,-,Standard
+72,70,Recov80,リカバリー80,ACEGL,0,none,1,-,Standard
+73,71,Recov120,リカバリー120,ACEGL,0,none,2,-,Standard
+74,72,Recov150,リカバリー150,ACEGL,0,none,2,-,Standard
+75,73,Recov200,リカバリー200,ACEGL,0,none,3,-,Standard
+76,74,Recov300,リカバリー300,ACEGL,0,none,4,-,Standard
+77,76,Steal,エリアスチール,AELPS,0,none,3,-,Standard
+78,79,Geddon1,デスマッチ1,FHJLN,0,none,3,-,Standard
+79,80,Geddon2,デスマッチ2,ABEIK,0,none,4,-,Standard
+80,82,Escape,エスケープ,FHJLN,0,none,3,-,Standard
+81,83,Interupt,インターラプト,FHJLN,0,none,3,-,Standard
+82,88,Repair,パネルリターン,AGHKS,0,none,1,-,Standard
+83,97,TimeBom1,カウントボム1,EGJLQ,80,none,2,-,Standard
+84,98,TimeBom2,カウントボム2,CFJLS,120,none,3,-,Standard
+85,99,TimeBom3,カウントボム3,ABGOP,160,none,4,-,Standard
+86,91,Cloud,クラウド,BGHOR,30,aqua,1,-,Standard
+87,92,Cloudier,モアクラウド,ADIMP,50,aqua,2,-,Standard
+88,93,Cloudest,モストクラウド,CFJKO,100,aqua,3,-,Standard
+89,124,Mine1,ステルスマイン1,GHMNP,160,none,2,-,Standard
+90,125,Mine2,ステルスマイン2,CEGJL,180,none,3,-,Standard
+91,126,Mine3,ステルスマイン3,ABORT,200,none,4,-,Standard
+92,139,Dynamit1,ダイナマイト1,BGOQS,100,none,3,-,Standard
+93,140,Dynamit2,ダイナマイト2,ACKMN,120,none,3,-,Standard
+94,141,Dynamit3,ダイナマイト3,GKMOP,150,none,3,-,Standard
+95,105,Remobit1,リモコゴロー1,ACFNO,80,elec,1,-,Standard
+96,106,Remobit2,リモコゴロー2,BDEHI,100,elec,1,-,Standard
+97,107,Remobit3,リモコゴロー3,GJKPQ,120,elec,1,-,Standard
+98,61,Lockon1,ロックオン1,CDHIL,10+,none,1,-,Standard
+99,62,Lockon2,ロックオン2,BEGHM,15+,none,2,-,Standard
+100,63,Lockon3,ロックオン3,ADKNO,20+,none,3,-,Standard
+101,115,Candle1,リモローソク1,CFIPS,0,none,2,-,Standard
+102,116,Candle2,リモローソク2,BEGJL,0,none,3,-,Standard
+103,117,Candle3,リモローソク3,ADHKM,0,none,4,-,Standard
+104,142,Anubis,ポイズンアヌビス,CLMQT,0,none,5,-,Standard
+105,94,IceCube,アイスキューブ,ACILM,0,aqua,2,-,Standard
+106,95,RockCube,ストーンキューブ,BEGMO,0,none,3,-,Standard
+107,108,BstrGard,バスターガード,AGKNR,0,none,3,-,Standard
+108,109,BstrBomb,バスターボム,DHJOT,0,none,4,-,Standard
+109,110,BstrSwrd,バスターソード,BELPS,0,none,4,-,Standard
+110,111,BstrPnch,バスターパンチ,CFIMQ,0,none,4,-,Standard
+111,118,SloGauge,ヘビーゲージ,HKNOQ,0,none,2,-,Standard
+112,119,FstGauge,クイックゲージ,ACELN,0,none,2,-,Standard
+113,100,Invis1,インビジブル1,IJLOQ,0,none,2,-,Standard
+114,101,Invis2,インビジブル2,ACFJM,0,none,3,-,Standard
+115,102,Invis3,インビジブル3,BDHKN,0,none,4,-,Standard
+116,137,DropDown,テンジョウウラ,ABORT,0,none,5,-,Standard
+117,138,Popup,ユカシタ,CDHKN,0,none,5,-,Standard
+118,103,IronBody,アイアンボディ,CDLQR,0,none,2,-,Standard
+119,147,Barrier,バリア,DFMRS,0,none,2,-,Standard
+120,130,BblWrap1,バブルラップ1,CEGIM,0,aqua,2,-,Standard
+121,131,BblWrap2,バブルラップ2,DFHKN,0,aqua,2,-,Standard
+122,132,BblWrap3,バブルラップ3,ABLQR,0,aqua,3,-,Standard
+123,146,LeafShld,リーフシールド,CDFKQ,0,wood,3,-,Standard
+124,85,AquaAura,アクアオーラ,DELRS,0,aqua,2,-,Standard
+125,86,FireAura,フレイムオーラ,BGINT,0,fire,3,-,Standard
+126,87,WoodAura,ウッドオーラ,CFJOQ,0,wood,4,-,Standard
+127,84,LifeAura,ドリームオーラ,AHKMP,0,none,5,-,Standard
+128,160,Roll1,,R,60,none,3,-,Navi
+129,161,Roll2,,R,80,none,4,-,Navi
+130,162,Roll3,,R,100,none,5,-,Navi
+131,163,GutsMan1,,G,40,none,3,-,Navi
+132,164,GutsMan2,,G,70,none,4,-,Navi
+133,165,GutsMan3,,G,100,none,5,-,Navi
+134,166,ProtoMan1,,B,140,none,3,-,Navi
+135,167,ProtoMan2,,B,160,none,4,-,Navi
+136,168,ProtoMan3,,B,180,none,5,-,Navi
+137,172,FireMan1,,F,100,fire,3,-,Navi
+138,173,FireMan2,,F,120,fire,4,-,Navi
+139,174,FireMan3,,F,150,fire,5,-,Navi
+140,175,NumberMan1,,N,10 * D6,none,3,-,Navi
+141,176,NumberMan2,,N,20 * D6,none,4,-,Navi
+142,177,NumberMan3,,N,30 * D6,none,5,-,Navi
+143,178,StoneMan1,,S,100,none,3,-,Navi
+144,179,StoneMan2,,S,100,none,4,-,Navi
+145,180,StoneMan3,,S,100,none,5,-,Navi
+146,181,IceMan1,,I,60,aqua,3,-,Navi
+147,182,IceMan2,,I,80,aqua,4,-,Navi
+148,183,IceMan3,,I,100,aqua,5,-,Navi
+149,187,ColorMan1,,C,90,none,3,-,Navi
+150,188,ColorMan2,,C,110,none,4,-,Navi
+151,189,ColorMan3,,C,130,none,5,-,Navi
+152,196,ElecMan1,,E,90,elec,3,-,Navi
+153,197,ElecMan2,,E,120,elec,4,-,Navi
+154,198,ElecMan3,,E,150,elec,5,-,Navi
+155,190,BombMan1,,B,120,fire,3,-,Navi
+156,191,BombMan2,,B,140,fire,4,-,Navi
+157,192,BombMan3,,B,160,fire,5,-,Navi
+158,157,MagicMan1,,M,100,none,3,-,Navi
+159,158,MagicMan2,,M,120,none,4,-,Navi
+160,159,MagicMan3,,M,140,none,5,-,Navi
+161,169,WoodMan1,,W,60,wood,3,-,Navi
+162,170,WoodMan2,,W,80,wood,4,-,Navi
+163,171,WoodMan3,,W,100,wood,5,-,Navi
+164,184,SkullMan1,,S,150,none,3,-,Navi
+165,185,SkullMan2,,S,180,none,4,-,Navi
+166,186,SkullMan3,,S,210,none,5,-,Navi
+167,193,SharkMan1,,S,90,aqua,3,-,Navi
+168,194,SharkMan2,,S,110,aqua,4,-,Navi
+169,195,SharkMan3,,S,130,aqua,5,-,Navi
+170,148,PharaohMan1,,P,100,none,5,-,Navi
+171,149,PharaohMan2,,P,120,none,5,-,Navi
+172,150,PharaohMan3,,P,140,none,5,-,Navi
+173,151,ShadowMan1,,S,80,none,5,-,Navi
+174,152,ShadowMan2,,S,90,none,5,-,Navi
+175,153,ShadowMan3,,S,100,none,5,-,Navi
+176,199,Bass,,F,200,none,6,-,Promotional
+?,?,ClockMan1,,?,120,?,?,-,OSS
+?,?,ClockMan2,,?,140,?,?,-,OSS
+?,?,ClockMan3,,?,160,?,?,-,OSS
+?,?,SSRockman,,?,100,?,?,-,OSS
+?,?,Burai,,?,60,?,?,-,OSS
+1,202,Z-Canon1,,?,40 * X,none,-,-,PA
+2,203,Z-Canon2,,?,80 * X,none,-,-,PA
+3,204,Z-Canon3,,?,120 * X,none,-,-,PA
+4,205,Z-Spread,,?,30 * X,none,-,-,PA
+5,206,Z-Raton1,,?,80 * X,none,-,-,PA
+6,207,Z-Raton2,,?,100 * X,none,-,-,PA
+7,208,Z-Raton3,,?,120 * X,none,-,-,PA
+8,209,Z-Arrow,,?,40 * 3 * X,none,-,-,PA
+9,210,Z-Spear,,?,50 * 3 * X,none,-,-,PA
+10,211,Z-Lance,,?,60 * 3 * X,none,-,-,PA
+11,212,O-Canon1,,?,40 * X,none,-,-,PA
+12,213,O-Canon2,,?,80 * X,none,-,-,PA
+13,214,O-Canon3,,?,120 * X,none,-,-,PA
+14,215,O-Spread,,?,30 * X,none,-,-,PA
+15,216,O-Raton1,,?,80 * X,none,-,-,PA
+16,217,O-Raton2,,?,100 * X,none,-,-,PA
+17,218,O-Raton3,,?,120 * X,none,-,-,PA
+18,219,O-Arrow,,?,40 * 3 * X,none,-,-,PA
+19,220,O-Spear,,?,50 * 3 * X,none,-,-,PA
+20,221,O-Lance,,?,60 * 3 * X,none,-,-,PA
+21,222,B-Bomb,,?,50/70/90 * 2,none,-,-,PA
+22,223,B-Sword,,?,80 * 6,none,-,-,PA
+23,224,B-Wave,,?,60/80/100 * 2,none,-,-,PA
+24,225,B-Quake,,?,90/120/150 * 2,none,-,-,PA
+25,226,S-Bomb,,?,50/70/90 * 3,none,-,-,PA
+26,227,S-Sword,,?,80 * 9,none,-,-,PA
+27,228,S-Wave,,?,60/80/100 * 3,none,-,-,PA
+28,229,S-Quake,,?,90/120/150 * 3,none,-,-,PA
+29,230,PwrCanon,,?,200,none,-,-,PA
+30,231,HvyStamp,,?,400,none,-,-,PA
+31,232,BgStrait,,?,250,none,-,-,PA
+32,233,BloodSuk,,?,200,none,-,-,PA
+33,234,Storm,,?,200,none,-,-,PA
+34,235,GtsShoot,,?,500,none,-,-,PA
+35,236,LifeSavr,,?,0?,none,-,-,PA
+36,237,2xHero,,?,400,none,-,-,PA

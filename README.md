@@ -18,3 +18,9 @@ Using the spiders
 scrapy runspider spider.py
 
 After running the spider, an XML file called chips.xml will be generated in your `dumps` folder, in which the file itself can be used alongside the `initialize_chiplibrary_db` script in chiplibrary, or for your own purposes.  Note that in order to use your file with chiplibrary, your file must be XML-generated.
+
+Credits
+---------------
+All of the information gathered here is primarily for use in the `chiplibrary` project.  To see the full list of contributors, have a look at the official website:
+
+(http://chips.nachtara.com/)[http://chips.nachtara.com/]
