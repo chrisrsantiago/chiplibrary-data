@@ -68,7 +68,7 @@ Library ID,Game ID,Name (English),Name (Japanese),Codes,Damage,Element,Rarity,MB
 67,61,Counter2,,BHL*,110,none,3,28,Standard,Both
 68,62,Counter3,,ANV,150,none,3,42,Standard,Both
 69,75,Boomer1,,LMN,60,wood,1,16,Standard,Both
-72,76,Boomer2,,LMN,80,wood,2,28,Standard,Both
+70,76,Boomer2,,LMN,80,wood,2,28,Standard,Both
 71,77,Boomer3,,STU,100,wood,2,40,Standard,Both
 72,78,SidBmbo1,,BIR*,80,wood,1,14,Standard,Both
 73,79,SidBmbo2,,HOS,110,wood,2,22,Standard,Both
@@ -235,7 +235,7 @@ Library ID,Game ID,Name (English),Name (Japanese),Codes,Damage,Element,Rarity,MB
 1,309,BlueMoon,,B,200,none,5,90,Giga,Blue
 2,305,SignlRed,,S,0,obj,5,61,Giga,Blue
 3,306,BassAnly,,X,160,none,5,95,Giga,Blue
-4,303,BugCurse,,S (C?),0,none,5,73,Giga,Blue
+4,303,BugCurse,,SC,0,none,5,73,Giga,Blue
 5,302,DeltaRay,,Z,260,sword,4,82,Giga,Blue
 1,151,RollAro1,,AFW,50,none,2,32,Secret,Both
 2,152,RollAro2,,DRW,70,none,3,38,Secret,Both

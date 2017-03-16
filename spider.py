@@ -19,8 +19,8 @@ def _create_indice(chip):
     relational data purposes.
     """
     if not chip['game'] == 'bn4':
-        # What are you doing?
-        return item['indice']
+        # Nothing to do here.
+        return chip['indice']
 
     indice = chip['indice']
     if indice == '??':
@@ -125,13 +125,7 @@ def parsecsv(game):
 
                 chip['classification'] = 'standard'
 
-            if game == 'bn4':
-                # Typo
-                if chip['name'] == 'Boomer2':
-                    chip['indice'] = '70'
-                if chip['name'] == 'BugCurse':
-                    chip['codes'] = ['C', 'S']
-                chip['indice'] = _create_indice(chip)
+            chip['indice'] = _create_indice(chip)
 
             chip_key = _create_key(chip)
             chips[chip_key] = chip
@@ -156,7 +150,7 @@ class ChipsItem(scrapy.Item):
     version = scrapy.Field()
 
 class FormatterPipeline(object):
-    """Formats data properly on final output.
+    """Formats data properly after `MegaSpider.parse` has yielded data.
     """
 
     def process_item(self, item, spider):
@@ -207,7 +201,10 @@ class MegaSpider(scrapy.Spider):
         'FEED_FORMAT': 'xml',
         'ITEM_PIPELINES': {
             'spider.FormatterPipeline': 1
-        }
+        },
+        'LOG_FILE': 'log',
+        'LOG_ENABLED': True,
+        'LOG_STDOUT': True
     }
 
     xpaths = {
@@ -530,15 +527,11 @@ class MegaSpider(scrapy.Spider):
                 # dict.
                 csv_key = _create_key(item)
 
-                try:
-                    item['element'] = csv_attrs[csv_key]['element']
-                    item['rarity'] = csv_attrs[csv_key]['rarity']
-                    item['size'] = csv_attrs[csv_key]['size']
-                    item['codes'] = csv_attrs[csv_key]['codes']
-                    item['indice_game'] = csv_attrs[csv_key]['indice_game']
-                    item['name_jp'] = csv_attrs[csv_key]['name_jp']
-                except KeyError:
-                    dump_ = pprint.pformat(csv_attrs.items(), width=80, depth=10)
-                    exit('Error for key: ' + csv_key + 'for game' + curr_game + ' and chip name: ' + item['name'] + 'DUMP:' + dump_)
+                item['element'] = csv_attrs[csv_key]['element']
+                item['rarity'] = csv_attrs[csv_key]['rarity']
+                item['size'] = csv_attrs[csv_key]['size']
+                item['codes'] = csv_attrs[csv_key]['codes']
+                item['indice_game'] = csv_attrs[csv_key]['indice_game']
+                item['name_jp'] = csv_attrs[csv_key]['name_jp']
                 # Spit it all out!
                 yield item
